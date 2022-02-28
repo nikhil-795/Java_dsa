@@ -7,7 +7,7 @@ public class calander {
         Scanner sc=new Scanner(System.in);
         System.out.println("enter number of month ");
         int month=sc.nextInt();
-        switch (month){
+        switch (month){ 
             case 1:
                 System.out.println("January");
                 break;
